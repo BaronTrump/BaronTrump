@@ -1,0 +1,39 @@
+## Hi, I'm Antwan Carter 👋
+
+**I build AI that works on a real production line, because I'm the person who keeps that line running.**
+
+I'm a Senior Maintenance Specialist at **KMIN USA** (Valley, AL). On my own time I design and build computer-vision and AI systems for automotive manufacturing: catching defects, cutting downtime, and making troubleshooting faster.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antwan%20Carter-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antwan-carter-079b87186)
+
+---
+
+### 🔧 What I build
+
+- **Real-time visual defect inspection:** object detection (YOLO, RF-DETR), instance segmentation (SAM), multi-object tracking (ByteTrack), and two-stage per-part classification
+- **Operator HMIs and dashboards:** PySide6 / PyQt6 desktop apps and browser dashboards, multilingual (EN / KO / ES)
+- **Industrial hardware integration:** Basler GigE cameras, Yaskawa and FANUC robots, Node-RED / SCADA for line actuation (reject arms, conveyor stops)
+- **LLM tools for the factory:** multilingual AI agents for parts manufacturers, AI diagnostics, and PLC code generation
+
+### ⭐ Featured projects
+
+| Project | What it does |
+|---|---|
+| [**AutoPartVision**](https://github.com/BaronTrump/AutoPartVision) | Real-time defect inspection for auto parts lines: RF-DETR / YOLOX detection, segmentation, ByteTrack with ROI zones, two-stage classification, PySide6 GUI |
+| [**VisoNode-AUTO**](https://github.com/BaronTrump/VisoNode-AUTO) | Node-graph AI inspection workbench with swappable YOLO26 / RF-DETR / SAM 3 engines and live Korean/English switching |
+| [**nexus-roboguide-hmi**](https://github.com/BaronTrump/nexus-roboguide-hmi) | Real-time 3D digital twin HMI for FANUC robots with AI diagnostics and LLM-based PLC code generation |
+| [**manufacturing-agent-zero**](https://github.com/BaronTrump/manufacturing-agent-zero) | Localized, multilingual AI agent for industrial auto-part manufacturers |
+| [**ai-vision-zero-defect-v1**](https://github.com/BaronTrump/ai-vision-zero-defect-v1) | Zero-defect system: visual inspection, robot guidance, anomaly detection, production dashboard |
+| [**SignVision**](https://github.com/BaronTrump/SignVision) | Real-time ASL sign-language detection with TensorFlow Object Detection and OpenCV |
+
+### 🧰 Tools I use
+
+`Python` · `PyTorch / Ultralytics YOLO` · `RF-DETR` · `SAM` · `OpenCV` · `TensorFlow` · `PySide6 / PyQt6` · `TypeScript` · `Node-RED` · `LLMs & AI agents` · `AWS` · `PLC` · `FANUC` · `Yaskawa` · `Basler GigE`
+
+### 🏭 Background
+
+10+ years of hands-on maintenance across automotive, biomedical (hospital medical devices), HVAC, and facilities, plus a software foundation in mobile (Java, Swift) and full-stack MEAN development. B.S. in Computer Science (Internet Security), Northeastern Illinois University.
+
+**Certifications:** CompTIA Security+ · Network+ · A+ · CySA+ · AWS Generative AI for Developers · AI Fundamentals (UPenn) · EPA 608 Universal · ASE
+
+📫 Open to roles in **industrial AI, machine vision, and manufacturing automation**. Reach me on [LinkedIn](https://www.linkedin.com/in/antwan-carter-079b87186).
