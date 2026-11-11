@@ -2,7 +2,7 @@
 
 **I build AI that works on a real production line, because I'm the person who keeps that line running.**
 
-I'm a Senior Maintenance Specialist at **KMIN USA** (Valley, AL). On my own time I design and build computer-vision and AI systems for automotive manufacturing: catching defects, cutting downtime, and making troubleshooting faster.
+I design and build computer-vision and AI systems for manufacturing: catching defects, cutting downtime, and making troubleshooting faster.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antwan%20Carter-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antwan-carter-079b87186)
 
