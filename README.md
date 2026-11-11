@@ -20,9 +20,10 @@ I design and build computer-vision and AI systems for manufacturing: catching de
 | Demo | What it is |
 |---|---|
 | [**ArcTwin**](https://arctwin.onrender.com) | Multi-vendor arc-welding digital twin: Yaskawa, FANUC and ABB cells in MuJoCo physics, collision-checked weld planning, native robot program export (INFORM / TP / RAPID). *Source private.* |
+| [**CircuitForge**](https://circuitforge-go8w.onrender.com) | PCB design in the browser: schematic capture, 4-layer layout with autorouter and copper pours, 3D board view, Gerber / BOM export, AI copilot. Opens instantly. *Source private.* |
 | [**NUN**](https://nun-demo.onrender.com) | Live plant-floor dashboard: machine status, alarms, jobs, shift reports, PLC/SCADA/ESP32 data, digital-twin API. *Source private.* |
 
-<sub>Demos run on a free server: the first load can take ~30 s to wake up.</sub>
+<sub>ArcTwin and NUN run on a free server: the first load can take ~30 s to wake up.</sub>
 
 ### ⭐ Featured projects
 
