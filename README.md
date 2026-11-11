@@ -15,6 +15,15 @@ I design and build computer-vision and AI systems for manufacturing: catching de
 - **Industrial hardware integration:** Basler GigE cameras, Yaskawa and FANUC robots, Node-RED / SCADA for line actuation (reject arms, conveyor stops)
 - **LLM tools for the factory:** multilingual AI agents for parts manufacturers, AI diagnostics, and PLC code generation
 
+### 🚀 Live demos (try them in your browser)
+
+| Demo | What it is |
+|---|---|
+| [**ArcTwin**](https://arctwin.onrender.com) | Multi-vendor arc-welding digital twin: Yaskawa, FANUC and ABB cells in MuJoCo physics, collision-checked weld planning, native robot program export (INFORM / TP / RAPID). *Source private.* |
+| [**NUN**](https://nun-demo.onrender.com) | Live plant-floor dashboard: machine status, alarms, jobs, shift reports, PLC/SCADA/ESP32 data, digital-twin API. *Source private.* |
+
+<sub>Demos run on a free server: the first load can take ~30 s to wake up.</sub>
+
 ### ⭐ Featured projects
 
 | Project | What it does |
@@ -28,7 +37,7 @@ I design and build computer-vision and AI systems for manufacturing: catching de
 
 ### 🧰 Tools I use
 
-`Python` · `PyTorch / Ultralytics YOLO` · `RF-DETR` · `SAM` · `OpenCV` · `TensorFlow` · `PySide6 / PyQt6` · `TypeScript` · `Node-RED` · `LLMs & AI agents` · `AWS` · `PLC` · `FANUC` · `Yaskawa` · `Basler GigE`
+`Python` · `MuJoCo` · `PyTorch / Ultralytics YOLO` · `RF-DETR` · `SAM` · `OpenCV` · `TensorFlow` · `PySide6 / PyQt6` · `TypeScript` · `Node-RED` · `LLMs & AI agents` · `AWS` · `PLC` · `FANUC` · `Yaskawa` · `Basler GigE`
 
 ### 🏭 Background
 
